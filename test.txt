@@ -1,4 +1,5 @@
 I hope I can totally take use of git ^_^
 git is a distributed version control system
 Git is free software distributed under the GPL
+created LICENCE
 
