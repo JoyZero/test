@@ -1,0 +1,13 @@
+git add
+git commit
+git log 查看提交日志
+	git log --pretty=oneline
+git reflog查看修改记录
+git status查看状态
+git diff filename查看filename文件被做了什么修改
+	git diff HEAD -- filename
+git reset --hard HEAD^版本回退
+	这里是退到HEAD指向的上一个版本，永阳的有HEAD^^,HEAD~100
+git checkout -- filename丢弃工作区的修改
+	即对文件修改后没有commit时，通过此命令可撤销到最近的提交版本
+

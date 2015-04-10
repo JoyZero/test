@@ -1,0 +1,4 @@
+git add
+git commit
+git log 查看日志
+git reflog
